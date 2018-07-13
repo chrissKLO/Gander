@@ -21,6 +21,9 @@ LastSession	tovatsim	1
 LastSession	range	300
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+LastSession	realname	Real Name
+LastSession	certificate	CID
+LastSession	password	Password
 Plugins	Plugin0	\Data\Plugins\EuroNat\euroNAT.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 RecentFiles	Recent1	\Data\ASR\Gander OCA.asr
