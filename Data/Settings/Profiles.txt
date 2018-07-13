@@ -1,0 +1,62 @@
+PROFILE
+PROFILE:CZQX_N_FSS:1250:1
+ATIS2:"Gander Radio"
+ATIS3:Covering Gander & Shanwick OCA
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:CZQX_A_FSS:1250:1
+ATIS2:"Gander Radio"
+ATIS3:Covering Gander OCA Track A
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:CZQX_E_FSS:1250:1
+ATIS2:"Gander Radio"
+ATIS3:Covering Gander OCA Track E
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:CZQX_F_FSS:1250:1
+ATIS2:"Gander Radio"
+ATIS3:Covering Gander OCA Track F
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:CZQX_M_FSS:1250:1
+ATIS2:"Gander Radio"
+ATIS3:Covering Gander OCA Track M
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:CZQX_FSS:1250:1
+ATIS2:"Gander Radio"
+ATIS3:Covering Gander OCA 
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:CZQX_<Tack>_FSS:1250:1
+ATIS2:"Gander Radio"
+ATIS3:Covering Gander OCA Track <Track>
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:EGGX_FSS:1250:1
+ATIS2:"Shanwick Radio"
+ATIS3:Covering Shanwick & Gander OCA
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:EGGX_A_FSS:1250:1
+ATIS2:"Shanwick Radio"
+ATIS3:Covering Shanwick Track A
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:EGGX_F_FSS:1250:1
+ATIS2:"Shanwick Radio"
+ATIS3:Covering Shanwick Track F
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:EGGX_M_FSS:1250:1
+ATIS2:"Shanwick Radio"
+ATIS3:Covering Shanwick Track M
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:EGGX_<Track>_FSS:1250:1
+ATIS2:"Shanwick Radio"
+ATIS3:Covering Shanwick Track <Track>
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:EGGX_DEL:1250:1
+ATIS2:"Shanwick Delivery"
+ATIS3:Covering Shanwick OCA
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:CZQX_DEL:1250:1
+ATIS2:"Gander Delivery"
+ATIS3:Covering Gander OCA
+ATIS4:Pilot Tools @ czqo.vatcan.ca/pilots/resources.html
+PROFILE:<Initials>_OBS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
+END

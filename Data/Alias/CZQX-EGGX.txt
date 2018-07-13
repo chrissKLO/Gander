@@ -1,0 +1,113 @@
+==========================================================================
+Alias:    	Shanwick Radio
+Last Updated:	15/04/2015
+Author:   	Sebastian Rekdal, Simon Irvine
+Contact us:	Sebastian.rekdal@gmail.com // simon.irvine@vatsim-uk.co.uk
+http://community.vatsim-uk.co.uk/topic/31576-shanwick-alias-file/
+==========================================================================
+
+
+
+==========================================================================
+GENERIC
+==========================================================================
+
+.s Standby.
+
+.r Roger.
+
+.a Affirm.
+
+.n Negative.
+
+.d Disregard.
+
+.cv Do you receive voice?
+
+.standby Please do not read-back "standby". Such instructions is not to be read back. Thank you :)
+
+.pb Please visit the Oceanic Briefing Room (www.tiny.cc/oceanic) for more information regarding Oceanic Procedures, flight planning, NATs, Oceanic clearances and position reports. Thank you!
+
+.nfp I have not yet received a flight plan from you - please file a flight plan now. Please do not write your coordinates as 50/30 or 50N30W, but ensure that your oceanic coordinates are written as follows: 50N030W = 50 degrees north, 30 degrees west.
+
+.fl Your flight level needs to be $1, would you like me to change it to FL$2 or FL$3?
+
+.noradar Hello, I cannot see you on my radar. This is because $radioname() is a NON-RADAR environment. A $radioname() Operator receives position reports from pilots crossing the North Atlantic Track. I cannot issue headings or any kind of traffic information. Please visit www.vatsim-uk.co.uk or www.tiny.cc/oceanic for more information. Thank you!
+
+.outcas Hello. You are outside my airspace. Monitor UNICOM 122.8, bye.
+
+.PR Please give your position report as follows: [LAST FIX CROSSED] at [TIME CROSSED], [FL], [MACH], estimating [NEXT FIX] at [TIME], [NEXT FIX]
+.CR Please request your oceanic clearance as follows: Request clearance to [ARR] via [NAT or RANDOM ROUTING], Flight Level [ALT] and Mach [MACH]. Estimating [ENTRY POINT] at [TIME]. 
+.SC SELCAL $uc($1)-$uc($2)
+.PP Pass your last position report when able. 
+.PPA Pass your last position report when able. Advise if you need assistance doing so.
+.PC Request oceanic clearance when able. 
+.PCA Request oceanic clearance when able. Advise if you need assistance doing so.
+.P Pass your message. 
+
+==========================================================================
+CLEARANCE
+==========================================================================
+
+.oca Cleared to $arr via Track $uc($1), from $uc($2) maintain $alt, Mach .$3
+
+.ocar Cleared to $arr via $uc($1), random routing: $uc($2). From $uc($1) maintain $alt, Mach .$3
+
+.ocab Cleared to $arr via Track $uc($1), from $uc($2) maintain $alt, Mach .$3. Cross $uc($2) not before time $4Z.
+
+.ocaa Cleared to $arr via Track $uc($1), from $uc($2) maintain $alt, Mach .$3. Cross $uc($2) not after time $4Z.
+
+.ocaab Cleared to $arr via Track $uc($1), from $uc($2) maintain $alt, Mach .$3. Cross $uc($2) not before or after time $4Z.
+
+.rc Readback correct. Continue with domestic.
+
+.rcme Readback correct, remain on this frequency. First position report with $radioname() over $uc($1).
+
+.rcu Readback Correct. Monitor UNICOM 122.8. First position report with $radioname() over $uc($1).
+
+.delay Delay $1 to $2 minutes.
+
+.slot Expect Clearance at time $1.
+
+
+==========================================================================
+ENROUTE //Position report//climb//descend//estimate//
+==========================================================================
+
+.pos $radioname() copies $uc($1) at $2Z, $alt, Mach .$3. Estimating $uc($4) at $5Z, $uc($6) next.
+
+.reta $radioname() copies estimating $uc($1) at $2Z.
+
+.climb Amended clearance. $radioname() clears $aircraft climb $alt. Report Reaching.
+
+.cclimb Maintain $cruise. After passing $uc($2), $radioname() clears $aircraft climb $alt. Report Reaching.
+
+.climbnow Climb $alt, to be level before $uc($2). Report Reaching.
+
+.des Amended clearance. $radioname() clears $aircraft descend $alt. Report Reaching.
+
+.cdes Maintain $cruise. After passing $uc($2), descend $alt. Report Reaching.
+
+.desnow Descend $alt, to be level before $uc($1). Report Reaching.
+
+.rm Reduce Mach .$1
+
+.im Increase Mach .$1
+
+==========================================================================
+ENROUTE //special situations//
+==========================================================================
+
+.mayday $radioname() copy Mayday! Confirm position from $1. When able report passengers on board and fuel remaining (in kg).
+
+.divert $radioname() copy $1. Do you have any specific requests/intentions?
+
+.nomayday $radioname() has a lot of traffic now. Please discontinue your emergency or disconnect from the network. Thank you.
+
+
+==========================================================================
+HANDOFF
+==========================================================================
+
+.con Contact $radioname($1), $atccallsign($1), on frequency $freq($1).
+.conu No furthur ATC is available. Frequency change approved. Enjoy your flight to $arr. 

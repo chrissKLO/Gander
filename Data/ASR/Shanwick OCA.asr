@@ -1,0 +1,162 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Gander-master\Data\Sector\Atlantic2.sct
+SECTORTITLE:Atlantic2.sct
+ARTCC boundary:Brest ACC:
+ARTCC boundary:Gander ACC:
+ARTCC boundary:London ACC:
+ARTCC boundary:Madrid ACC:
+ARTCC boundary:Montcon ACC:
+ARTCC boundary:Montreal ACC:
+ARTCC boundary:Reykjavic ACC:
+ARTCC boundary:Scottish ACC:
+ARTCC boundary:Shannon ACC:
+ARTCC high boundary:Reykjavic OCA East:
+ARTCC high boundary:Reykjavic OCA North:
+ARTCC high boundary:Reykjavic OCA South:
+ARTCC high boundary:Reykjavic OCA West:
+ARTCC low boundary:Gander OCA:
+ARTCC low boundary:New York OCA:
+ARTCC low boundary:Santa Maria OCA:
+ARTCC low boundary:Shanwick OCA:
+Fixes:AGORI:name
+Fixes:AGORI:symbol
+Fixes:ALLRY:name
+Fixes:ALLRY:symbol
+Fixes:ATSIX:name
+Fixes:ATSIX:symbol
+Fixes:AVPUT:name
+Fixes:AVPUT:symbol
+Fixes:AVUTI:name
+Fixes:AVUTI:symbol
+Fixes:BALIX:name
+Fixes:BALIX:symbol
+Fixes:BEDRA:name
+Fixes:BEDRA:symbol
+Fixes:BEGAS:name
+Fixes:BEGAS:symbol
+Fixes:CLAVY:name
+Fixes:CLAVY:symbol
+Fixes:CUDDY:name
+Fixes:CUDDY:symbol
+Fixes:DINIM:name
+Fixes:DINIM:symbol
+Fixes:DOGAL:name
+Fixes:DOGAL:symbol
+Fixes:DORYY:name
+Fixes:DORYY:symbol
+Fixes:ELSIR:name
+Fixes:ELSIR:symbol
+Fixes:EMBOK:name
+Fixes:EMBOK:symbol
+Fixes:ERAKA:name
+Fixes:ERAKA:symbol
+Fixes:ETIKI:name
+Fixes:ETIKI:symbol
+Fixes:GOMUP:name
+Fixes:GOMUP:symbol
+Fixes:HOIST:name
+Fixes:HOIST:symbol
+Fixes:JANJO:name
+Fixes:JANJO:symbol
+Fixes:JOOPY:name
+Fixes:JOOPY:symbol
+Fixes:KETLA:name
+Fixes:KETLA:symbol
+Fixes:LASNO:name
+Fixes:LASNO:symbol
+Fixes:LIMRI:name
+Fixes:LIMRI:symbol
+Fixes:LOMSI:name
+Fixes:LOMSI:symbol
+Fixes:MALOT:name
+Fixes:MALOT:symbol
+Fixes:MAXAR:name
+Fixes:MAXAR:symbol
+Fixes:NEEKO:name
+Fixes:NEEKO:symbol
+Fixes:NICSO:name
+Fixes:NICSO:symbol
+Fixes:OMOKO:name
+Fixes:OMOKO:symbol
+Fixes:PASAS:name
+Fixes:PASAS:symbol
+Fixes:PIDSO:name
+Fixes:PIDSO:symbol
+Fixes:PIKIL:name
+Fixes:PIKIL:symbol
+Fixes:PORTI:name
+Fixes:PORTI:symbol
+Fixes:RAFIN:name
+Fixes:RAFIN:symbol
+Fixes:RATSU:name
+Fixes:RATSU:symbol
+Fixes:RESNO:name
+Fixes:RESNO:symbol
+Fixes:RIKAL:name
+Fixes:RIKAL:symbol
+Fixes:SAVRY:name
+Fixes:SAVRY:symbol
+Fixes:SEPAL:name
+Fixes:SEPAL:symbol
+Fixes:SIVIR:name
+Fixes:SIVIR:symbol
+Fixes:SOMAX:name
+Fixes:SOMAX:symbol
+Fixes:SUNOT:name
+Fixes:SUNOT:symbol
+Fixes:SUPRY:name
+Fixes:SUPRY:symbol
+Fixes:TUDEP:name
+Fixes:TUDEP:symbol
+Fixes:URTAK:name
+Fixes:URTAK:symbol
+Free Text:ACC Information\Brest Control - LFRR:freetext
+Free Text:ACC Information\Edmonton Centre/Radio - CZEG:freetext
+Free Text:ACC Information\Gander Centre - CZQX:freetext
+Free Text:ACC Information\Iceland Radio - BGGL:freetext
+Free Text:ACC Information\Madrid Radar - LECM:freetext
+Free Text:ACC Information\Montreal Centre - CZUL:freetext
+Free Text:ACC Information\New York Radio - NY:freetext
+Free Text:ACC Information\Reykjavic Control - BIRD:freetext
+Free Text:ACC Information\Reykjavic Control - BIRD:freetext
+Free Text:ACC Information\Santa Maria Radio - LPPO:freetext
+Free Text:ACC Information\Scottish Control - SCO:freetext
+Free Text:ACC Information\Shannon Control - EISN:freetext
+Free Text:Grid Reference\45/20:freetext
+Free Text:Grid Reference\45/30:freetext
+Free Text:Grid Reference\45/40:freetext
+Free Text:Grid Reference\45/50:freetext
+Free Text:Grid Reference\50/20:freetext
+Free Text:Grid Reference\50/30:freetext
+Free Text:Grid Reference\50/40:freetext
+Free Text:Grid Reference\50/50:freetext
+Free Text:Grid Reference\55/20:freetext
+Free Text:Grid Reference\55/30:freetext
+Free Text:Grid Reference\55/40:freetext
+Free Text:Grid Reference\55/50:freetext
+Free Text:Grid Reference\60/20:freetext
+Free Text:Grid Reference\60/30:freetext
+Free Text:Grid Reference\60/40:freetext
+Free Text:Grid Reference\60/50:freetext
+Geo:GEO:
+Geo:Grid:
+High airways:T13:line
+High airways:T16:line
+High airways:T213:line
+High airways:T9:line
+SHOWC:1
+SHOWSB:0
+BELOW:15500
+ABOVE:0
+LEADER:1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:0.00000
+TAGFAMILY:Gander OCA
+WINDOWAREA:43.443489:-42.596168:61.793569:11.979244

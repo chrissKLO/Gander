@@ -1,0 +1,11 @@
+VOICE
+AG:Gander Radio [Bandbox]:131.700:voice1.vatsim-germany.org:CZQX_N_FSS
+AG:Gander Radio [Track A]:131.550:voice1.vatsim-germany.org:CZQX_A_FSS
+AG:Gander Radio [Track E]:131.650:voice1.vatsim-germany.org:CZQX_E_FSS
+AG:Gander Radio [Track F]:131.750:voice1.vatsim-germany.org:CZQX_F_FSS
+AG:Gander Radio [Track M]:131.850:voice1.vatsim-germany.org:CZQX_M_FSS
+AG:Shanwick Radio [Bandbox]:131.800:voice1.vatsim-germany.org:EGGX_FSS
+AG:Shanwick Radio [Track A]:131.570:voice1.vatsim-germany.org:EGGX_A_FSS
+AG:Shanwick Radio [Track F]:131.770:voice1.vatsim-germany.org:EGGX_F_FSS
+AG:Shanwick Radio [Track M]:131.870:voice1.vatsim-germany.org:EGGX_M_FSS
+END
