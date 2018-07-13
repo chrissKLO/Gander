@@ -23,7 +23,7 @@ If you have any problems please contact one of the Staff or Instructors.
 
 | Plugin | Link |
 | ------ | ------ |
-| EuroNat | [https://github.com/nickbotica/euroNAT][PlDb] |
+| EuroNat | https://github.com/nickbotica/euroNAT |
 
 ### Development
 
