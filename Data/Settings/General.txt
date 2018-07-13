@@ -40,7 +40,7 @@ m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:http://vacchun.hu/td/esmetar.php?tlcond=100,1013,110&metar=$metar($atisairport)&arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&app=ILS&par=1&info=$atiscode&lvp=2
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
-SET_TransparentAcListBackground:0
+SET_TransparentAcListBackground:1
 m_PutIncomingCoordinationToFirst:0
 m_AutoProxyMode:1
 m_TransparentAcListSelectedBackground:0
@@ -119,7 +119,7 @@ m_MTCA_Floor:10000
 m_MTCA_AltitudeDifference:2000
 m_MTCA_Distance:20.0
 m_UseIsectForScratchPad:1
-m_RotateRadarTargetSymbol:1
+m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:1
 m_RubberHeadingRounding:5
 SqawkForSModeTransponder:
