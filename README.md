@@ -2,12 +2,7 @@
 
 [![N|Solid](https://i.imgur.com/uCUiSQ5.png)](http://czqo.vatcan.ca/)
 
-The new Gander Sectorfile created by Chriss Klosowski (1306415) re-made from scratch and dedication. Along with references to the real world this is the most realistic sectorfile for Oceanic yet.
-
-  - Reaslistic Radar Coverage
-  - Realistic Tag System based from the GAATS system
-  - Realistic Displays
-  - Realistic Symbology
+The new Gander Sectorfile created by Chriss Klosowski (1306415) re-made from scratch. Most of the current setup is referenced from the pictures in the repo.
 
 # New Features!
 
